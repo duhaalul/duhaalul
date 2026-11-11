@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./workspace-header.svg" width="880" alt="Duha Alul Bariq — Mobile apps, web tools, and APIs">
+  <img src="./workspace-header-animated.svg" width="880" alt="Duha Alul Bariq — Mobile apps, web tools, and APIs">
 </p>
 
 <p align="center">
