@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="112" viewBox="0 0 880 112" role="img" aria-labelledby="title">
+  <title id="title">Lihat grafik kontribusi di GitHub</title>
+  <rect x="1" y="1" width="878" height="110" rx="19" fill="#101F31" stroke="#39516A"/>
+  <rect x="25" y="26" width="60" height="60" rx="13" fill="#193749"/>
+  <g fill="none" stroke="#68E7BE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 68V43m0 25h30M45 61l8-8 6 5 10-12"/>
+    <path d="M823 56h24m-8-8 8 8-8 8"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="105" y="52" fill="#F1F7FF" font-size="28" font-weight="700">Aktivitas GitHub</text>
+    <text x="105" y="79" fill="#BDD1E5" font-size="20">Buka grafik kontribusi dan riwayat aktivitas</text>
+  </g>
+</svg>
