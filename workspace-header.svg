@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 260" width="880" height="260" role="img" aria-labelledby="title desc">
+  <title id="title">Duha Alul Bariq</title>
+  <desc id="desc">Student developer building mobile apps, web tools, and APIs.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0A1526"/><stop offset="1" stop-color="#101F31"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#50E3B4"/><stop offset="1" stop-color="#8CC8FF"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#A5C9ED" stroke-opacity=".10"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="878" height="258" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#bg)" d="M0 0h880v260H0z"/>
+    <path fill="#16283C" d="M0 0h880v47H0z"/>
+    <path fill="url(#grid)" d="M620 47h260v213H620z"/>
+    <path stroke="#34485E" d="M0 47h880"/>
+    <path fill="url(#accent)" d="M0 256h880v4H0z"/>
+  </g>
+  <rect x="1" y="1" width="878" height="258" rx="24" fill="none" stroke="#39516A"/>
+  <circle cx="29" cy="24" r="4.5" fill="#50E3B4"/>
+  <circle cx="45" cy="24" r="4.5" fill="#58748F"/>
+  <circle cx="61" cy="24" r="4.5" fill="#58748F"/>
+  <g font-family="Consolas, Liberation Mono, monospace">
+    <text x="82" y="30" fill="#BDD1E5" font-size="17">~/duhaalul</text>
+    <text x="42" y="99" fill="#68E7BE" font-size="23">❯ whoami</text>
+    <text x="43" y="213" fill="#BDD1E5" font-size="22">Mobile apps  /  Web tools  /  APIs</text>
+  </g>
+  <text x="39" y="166" fill="#F1F7FF" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="67" letter-spacing="-2">Duha Alul Bariq</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m693 150 24-24 23 23 39-48 26 24"/>
+    <path d="M693 150v32h112v-57" opacity=".37"/>
+    <path d="M735 195h69" opacity=".37"/>
+  </g>
+  <g fill="#0F1D30" stroke="#6CE6C2" stroke-width="2">
+    <circle cx="693" cy="150" r="5"/><circle cx="717" cy="126" r="5"/>
+    <circle cx="740" cy="149" r="5"/><circle cx="779" cy="101" r="5"/>
+    <circle cx="805" cy="125" r="5"/>
+  </g>
+</svg>
