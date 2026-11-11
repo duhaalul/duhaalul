@@ -34,7 +34,7 @@
 | ✅ **[Sistem Kinerja Pegawai](https://github.com/duhaalul/sistem-kinerja-pegawai)** | Dalam proyek tim ini, saya mengerjakan logbook harian, ekspor PDF, dan REST API. |
 
 <p align="center">
-  <a href="https://github.com/duhaalul#contributions">
+  <a href="https://github.com/duhaalul#js-contribution-activity-description">
     <img src="./activity-link.svg" width="880" alt="Lihat grafik kontribusi dan riwayat aktivitas di GitHub">
   </a>
 </p>
