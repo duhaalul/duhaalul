@@ -17,11 +17,20 @@
 <h2 align="center">Skills &amp; tools</h2>
 
 <p align="center">
-  <strong>Mobile &amp; integrasi</strong><br>
+  <strong>Mobile &amp; integrasi</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,firebase&amp;theme=dark" height="42" alt="Flutter, Dart, Supabase, Firebase">
 </p>
+
+<br>
+
 <p align="center">
-  <strong>Web &amp; backend</strong><br>
+  <strong>Web &amp; backend</strong>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql&amp;theme=dark" height="42" alt="JavaScript, HTML, CSS, Node.js, Express, MySQL">
 </p>
 
