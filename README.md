@@ -40,11 +40,11 @@
 
 | Proyek | Tentang proyek |
 | --- | --- |
-| 🧾 **[BillSwipe](https://github.com/duhaalul/billswipe)** | Bagi tagihan dari foto struk. Pembulatan rupiah diatur supaya jumlah semua bagian tetap pas. |
-| 📄 **[Format-Guard](https://github.com/duhaalul/Format-Guard)** | Periksa dan rapikan DOCX langsung di browser. Pengunjung bisa [mencoba dengan dokumen contoh](https://duhaalul.github.io/Format-Guard/). |
-| ✅ **[Sistem Kinerja Pegawai](https://github.com/duhaalul/sistem-kinerja-pegawai)** | Dalam proyek tim ini, saya mengerjakan logbook harian, ekspor PDF, dan REST API. |
-| 📊 **[Estimasi Peminat SNPMB](https://github.com/samythh/estimasi-peminat-snpmb)** | Proyek kelompok Machine Learning untuk mengestimasi jumlah peminat program studi menggunakan regresi pada data SNPMB. |
-| 🛵 **[Nebeng Dong](https://github.com/TRAFIV/nebeng-dong-app)** | Proyek kelompok aplikasi Flutter untuk mencari tebengan antar mahasiswa. Prototipe alur penumpang sedang dikembangkan. |
+| **[BillSwipe](https://github.com/duhaalul/billswipe)** | Bagi tagihan dari foto struk. Pembulatan rupiah diatur supaya jumlah semua bagian tetap pas. |
+| **[Format-Guard](https://github.com/duhaalul/Format-Guard)** | Periksa dan rapikan DOCX langsung di browser. Pengunjung bisa [mencoba dengan dokumen contoh](https://duhaalul.github.io/Format-Guard/). |
+| **[Sistem Kinerja Pegawai](https://github.com/duhaalul/sistem-kinerja-pegawai)** | Dalam proyek tim ini, saya mengerjakan logbook harian, ekspor PDF, dan REST API. |
+| **[Estimasi Peminat SNPMB](https://github.com/samythh/estimasi-peminat-snpmb)** | Proyek kelompok Machine Learning untuk mengestimasi jumlah peminat program studi menggunakan regresi pada data SNPMB. |
+| **[Nebeng Dong](https://github.com/TRAFIV/nebeng-dong-app)** | Proyek kelompok aplikasi Flutter untuk mencari tebengan antar mahasiswa. Prototipe alur penumpang sedang dikembangkan. |
 
 <p align="center">
   <a href="https://github.com/duhaalul#js-contribution-activity-description">
