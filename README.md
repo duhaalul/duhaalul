@@ -33,10 +33,8 @@
 | 📄 **[Format-Guard](https://github.com/duhaalul/Format-Guard)** | Periksa dan rapikan DOCX langsung di browser. Pengunjung bisa [mencoba dengan dokumen contoh](https://duhaalul.github.io/Format-Guard/). |
 | ✅ **[Sistem Kinerja Pegawai](https://github.com/duhaalul/sistem-kinerja-pegawai)** | Dalam proyek tim ini, saya mengerjakan logbook harian, ekspor PDF, dan REST API. |
 
-<h2 align="center">Aktivitas GitHub</h2>
-
 <p align="center">
-  <a href="https://github.com/duhaalul#contribution-activity">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=duhaalul&amp;bg_color=0f1d30&amp;color=BDD1E5&amp;line=50E3B4&amp;point=8CC8FF&amp;area=true&amp;area_color=276457&amp;hide_border=true&amp;radius=16&amp;hide_title=true" width="880" alt="Grafik kontribusi GitHub duhaalul selama 31 hari terakhir">
+  <a href="https://github.com/duhaalul#contributions">
+    <img src="./activity-link.svg" width="880" alt="Lihat grafik kontribusi dan riwayat aktivitas di GitHub">
   </a>
 </p>
